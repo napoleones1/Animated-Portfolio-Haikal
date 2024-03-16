@@ -16,7 +16,7 @@ const Homepage = () => {
       <div className="h-full flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48">
         {/* image container */}
         <div className="h-1/2 lg:h-full lg:w-1/2 relative">
-          <Image src="/hero1.png" alt="" fill className="object-contain" />
+          <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218431935148326912/hero1.png?ex=6607a42a&is=65f52f2a&hm=79f7c7b6cdf39b16200cca4ebaf2a5b60fe76a6d910c9caeac7814433908e4c7&=&format=webp&quality=lossless&width=568&height=671" alt="" fill className="object-contain" />
         </div>
         {/* text container */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
