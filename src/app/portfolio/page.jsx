@@ -16,10 +16,10 @@ const items = [
     {
         id: 2,
         color: "from-blue-300 to-violet-300",
-        title: "Next.js Medium Blog",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-        img: "https://media.discordapp.net/attachments/1133963111993450548/1216193680814112808/2.png?ex=65ff7fa1&is=65ed0aa1&hm=f337f80e51d94a8b94478515879ed7aee4d2ef2e0514eb4c5aa1f582ea9add0e&=&format=webp&quality=lossless",
-        link: "http://portfolio.haikal.freewebhostmost.com/",
+        title: "Next.js Chatan App",
+        desc: "Chatan adalah aplikasi pesan instan yang mirip dengan Messenger. Fitur-fiturnya meliputi pesan teks, panggilan suara/video, grup chat, berbagi media, stiker/emoji, keamanan, profil pengguna, dan notifikasi real-time. Dikembangkan untuk pengalaman pengguna yang intuitif, aman, dan terus diperbarui berdasarkan umpan balik pengguna. Tujuannya adalah menjadi aplikasi pesan instan pilihan bagi pengguna yang mencari keandalan dan inovasi.",
+        img: "https://cdn.discordapp.com/attachments/1133963111993450548/1218430772130746439/project_chatan.png?ex=6607a315&is=65f52e15&hm=30685e8add6a861416b55bb4f7b2d45bd5e030ba4e63c9be84b49414e9e91d08&",
+        link: "https://chatan.vercel.app/",
     },
     {
         id: 3,
