@@ -18,7 +18,7 @@ const items = [
         color: "from-blue-300 to-violet-300",
         title: "Next.js Chatan App",
         desc: "Chatan adalah aplikasi pesan instan yang mirip dengan Messenger. Fitur-fiturnya meliputi pesan teks, panggilan suara/video, grup chat, berbagi media, stiker/emoji, keamanan, profil pengguna, dan notifikasi real-time. Dikembangkan untuk pengalaman pengguna yang intuitif, aman, dan terus diperbarui berdasarkan umpan balik pengguna. Tujuannya adalah menjadi aplikasi pesan instan pilihan bagi pengguna yang mencari keandalan dan inovasi.",
-        img: "https://cdn.discordapp.com/attachments/1133963111993450548/1218430772130746439/project_chatan.png?ex=6607a315&is=65f52e15&hm=30685e8add6a861416b55bb4f7b2d45bd5e030ba4e63c9be84b49414e9e91d08&",
+        img: "https://media.discordapp.net/attachments/1133963111993450548/1218430772130746439/project_chatan.png?ex=6607a315&is=65f52e15&hm=30685e8add6a861416b55bb4f7b2d45bd5e030ba4e63c9be84b49414e9e91d08&=&format=webp&quality=lossless&width=1411&height=671",
         link: "https://chatan.vercel.app/",
     },
     {
