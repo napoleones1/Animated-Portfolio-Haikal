@@ -85,19 +85,19 @@ const Navbar = () => {
             {/* social */}
             <div className="hidden md:flex gap-4 w-1/3">
                 <Link href="https://github.com/napoleones1" className=" hover:opacity-60">
-                    <Image src="/github.png" alt="" width={24} height={24} />
+                    <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218432681331658762/github.png?ex=6607a4dc&is=65f52fdc&hm=0391b85bd22eb7e929c5041a340f9c77d4fd569175735d216767a00cbfaa2de4&=&format=webp&quality=lossless" alt="" width={24} height={24} />
                 </Link>
                 <Link href="https://discord.gg/QNtSaDeBgR" className=" hover:opacity-60">
-                    <Image src="/discord.png" alt="" width={24} height={24} />
+                    <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218432681122074654/discord.png?ex=6607a4dc&is=65f52fdc&hm=c91b59ce5f82c9e0dd40f5a42c0fe7aa765cd35aab32e38772e1a203cce6faba&=&format=webp&quality=lossless" alt="" width={24} height={24} />
                 </Link>
                 <Link href="https://www.instagram.com/haikal.rar" className=" hover:opacity-60">
-                    <Image src="/instagram.png" alt="" width={24} height={24} />
+                    <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218432680371425380/instagram.png?ex=6607a4dc&is=65f52fdc&hm=492fa9ecce9aef572fa81db127cbc7c8232b972195cedf63a2e4547886867f71&=&format=webp&quality=lossless" alt="" width={24} height={24} />
                 </Link>
                 <Link href="https://youtube.com/@napoleones1" className=" hover:opacity-60">
-                    <Image src="/youtube.png" alt="" width={24} height={24} />
+                    <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218432680849575966/youtube.png?ex=6607a4dc&is=65f52fdc&hm=4ecd42fbc7583873f70b2f83bb1d20c193396e3d94ae654aedbef960307d6ed3&=&format=webp&quality=lossless" alt="" width={24} height={24} />
                 </Link>
                 <Link href="https://www.linkedin.com/in/muhamadhaikal-me" className=" hover:opacity-60">
-                    <Image src="/linkedin.png" alt="" width={24} height={24} />
+                    <Image src="https://media.discordapp.net/attachments/1133963111993450548/1218432680589398068/linkedin.png?ex=6607a4dc&is=65f52fdc&hm=8266ebbb120db1ca9d13e97cff9b04bb5fac283da2786c2bec15a4c9c1a3014f&=&format=webp&quality=lossless" alt="" width={24} height={24} />
                 </Link>
             </div>
             {/* responsive menu */}
